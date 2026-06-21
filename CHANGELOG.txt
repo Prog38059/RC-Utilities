@@ -1,1 +1,18 @@
+RC-Utilities Changelog
 
+## Version 1.0.3
+
+* Added automatic installer activation
+* Added Excel running detection
+* Added improved PowerShell registration
+* Fixed ribbon activation issue
+* Fixed workbook link compatibility
+
+## Version 1.0.2
+
+* Added version checking
+* Added GitHub releases integration
+
+## Version 1.0.1
+
+* Initial public release
