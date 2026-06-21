@@ -1,18 +1,27 @@
 RC-Utilities Changelog
 
-## Version 1.0.3
+Version 1.1.0
+-------------
+- Added GitHub-based version checking
+- Added Release Notes viewer
+- Added About RC-Utilities dialog
+- Added workbook link repair tools
+- Added professional installer workflow
+- Added Excel running detection during install
+- Improved PowerShell activation
+- Improved add-in deployment process
+- Standardized add-in filename to RC-Utilities.xlam
 
-* Added automatic installer activation
-* Added Excel running detection
-* Added improved PowerShell registration
-* Fixed ribbon activation issue
-* Fixed workbook link compatibility
+Version 1.0.3
+-------------
+- Automatic Add-In Activation
+- Ribbon loading improvements
+- Installer improvements
 
-## Version 1.0.2
+Version 1.0.2
+-------------
+- Version checking system
 
-* Added version checking
-* Added GitHub releases integration
-
-## Version 1.0.1
-
-* Initial public release
+Version 1.0.1
+-------------
+- Initial public release
